@@ -5,4 +5,4 @@ MIT-Linsence
 
 how to use?
 
-loadstring(game:HttpGet("%web%")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OfficalDreamlong/PSX-moew-project/refs/heads/main/file-code")()
