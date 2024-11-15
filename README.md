@@ -1,2 +1,8 @@
-# PSX-moew-project
-This is not selfmade
+# PSX-EXPLOITING-PROJECT
+This is made by another
+
+MIT-Linsence
+
+how to use?
+
+loadstring(game:HttpGet("%web%")()
